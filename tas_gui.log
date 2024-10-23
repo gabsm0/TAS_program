@@ -1,0 +1,411 @@
+2024-10-23 14:04:00,747 - ERROR - MainThread - Failed to initialize Arduino: could not open port 'COM6': FileNotFoundError(2, 'O sistema não pode encontrar o arquivo especificado.', None, 2)
+2024-10-23 14:11:58,662 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:12:01,189 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:12:03,910 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:12:05,607 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:12:07,734 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:12:08,939 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:12:10,193 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:12:11,478 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:12:12,679 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:12:15,264 - INFO - MainThread - Arduino initialized successfully.
+2024-10-23 14:12:26,690 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:12:30,613 - ERROR - Thread-7 (_set_light_thread) - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:12:30,621 - INFO - Thread-7 (_set_light_thread) - Light set to stage: 4095
+2024-10-23 14:12:39,228 - ERROR - Thread-8 (_set_light_thread) - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:12:39,237 - INFO - Thread-8 (_set_light_thread) - Light set to stage: 2047
+2024-10-23 14:12:47,564 - ERROR - Thread-9 (_set_light_thread) - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:12:47,566 - INFO - Thread-9 (_set_light_thread) - Light set to stage: 0
+2024-10-23 14:12:54,972 - ERROR - Thread-10 (_set_light_thread) - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:12:54,982 - INFO - Thread-10 (_set_light_thread) - Light set to stage: 409
+2024-10-23 14:13:01,662 - INFO - MainThread - Arduino disconnected successfully.
+2024-10-23 14:16:31,147 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:16:36,364 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:16:38,177 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:16:39,339 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:16:40,637 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:16:42,946 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:16:45,943 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:16:47,100 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:16:48,218 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:16:50,500 - INFO - MainThread - Arduino initialized successfully.
+2024-10-23 14:16:58,334 - ERROR - Thread-12 (_set_light_thread) - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:16:58,341 - INFO - Thread-12 (_set_light_thread) - Light set to stage: 0
+2024-10-23 14:17:03,229 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:17:07,014 - ERROR - MainThread - Failed to send command to Arduino: 'ArduinoController' object has no attribute 'serial_lock'
+2024-10-23 14:17:11,145 - INFO - MainThread - Arduino disconnected successfully.
+2024-10-23 14:21:01,389 - INFO - MainThread - Sent to Arduino: 0
+2024-10-23 14:21:01,892 - INFO - MainThread - Sent to Arduino: 2
+2024-10-23 14:21:02,394 - INFO - MainThread - Sent to Arduino: 5
+2024-10-23 14:21:02,896 - INFO - MainThread - Sent to Arduino: 7
+2024-10-23 14:21:03,398 - INFO - MainThread - Sent to Arduino: 9
+2024-10-23 14:21:03,900 - INFO - MainThread - Sent to Arduino: b
+2024-10-23 14:21:04,402 - INFO - MainThread - Sent to Arduino: d
+2024-10-23 14:21:04,904 - INFO - MainThread - Sent to Arduino: f
+2024-10-23 14:21:05,406 - INFO - MainThread - Sent to Arduino: h
+2024-10-23 14:21:07,888 - INFO - MainThread - Arduino initialized successfully.
+2024-10-23 14:21:07,888 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 0
+2024-10-23 14:21:07,888 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:21:07,902 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 2
+2024-10-23 14:21:07,902 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:21:07,902 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 5
+2024-10-23 14:21:07,902 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:21:07,910 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 7
+2024-10-23 14:21:07,910 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:21:07,910 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 9
+2024-10-23 14:21:07,910 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:21:07,910 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: b
+2024-10-23 14:21:07,910 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:21:07,918 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: d
+2024-10-23 14:21:07,918 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:21:07,918 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: f
+2024-10-23 14:21:07,918 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:21:07,918 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: h
+2024-10-23 14:21:07,918 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:21:10,157 - INFO - MainThread - Sent to Arduino: 4
+2024-10-23 14:21:10,183 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 4
+2024-10-23 14:21:10,191 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:21:11,993 - INFO - MainThread - Sent to Arduino: 5
+2024-10-23 14:21:12,018 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 5
+2024-10-23 14:21:12,034 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:21:17,360 - INFO - Thread-7 (_set_light_thread) - Sent to Arduino: i 409
+2024-10-23 14:21:17,360 - INFO - Thread-7 (_set_light_thread) - Light set to stage: 409
+2024-10-23 14:21:17,391 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: i
+2024-10-23 14:21:17,424 - INFO - Thread-6 (read_serial) - Received from Arduino: enter value between 0 and 4095:
+2024-10-23 14:21:18,431 - INFO - Thread-6 (read_serial) - Received from Arduino: 409
+2024-10-23 14:21:21,712 - INFO - Thread-8 (_set_light_thread) - Sent to Arduino: i 0
+2024-10-23 14:21:21,712 - INFO - Thread-8 (_set_light_thread) - Light set to stage: 0
+2024-10-23 14:21:22,732 - INFO - Thread-6 (read_serial) - Received from Arduino: 0
+2024-10-23 14:21:25,416 - INFO - Thread-9 (_set_light_thread) - Sent to Arduino: i 409
+2024-10-23 14:21:25,432 - INFO - Thread-9 (_set_light_thread) - Light set to stage: 409
+2024-10-23 14:21:26,446 - INFO - Thread-6 (read_serial) - Received from Arduino: 409
+2024-10-23 14:21:33,528 - INFO - MainThread - Arduino disconnected successfully.
+2024-10-23 14:22:19,265 - INFO - MainThread - Sent to Arduino: 0
+2024-10-23 14:22:19,768 - INFO - MainThread - Sent to Arduino: 2
+2024-10-23 14:22:20,270 - INFO - MainThread - Sent to Arduino: 5
+2024-10-23 14:22:20,771 - INFO - MainThread - Sent to Arduino: 7
+2024-10-23 14:22:21,273 - INFO - MainThread - Sent to Arduino: 9
+2024-10-23 14:22:21,775 - INFO - MainThread - Sent to Arduino: b
+2024-10-23 14:22:22,277 - INFO - MainThread - Sent to Arduino: d
+2024-10-23 14:22:22,779 - INFO - MainThread - Sent to Arduino: f
+2024-10-23 14:22:23,281 - INFO - MainThread - Sent to Arduino: h
+2024-10-23 14:22:26,070 - INFO - MainThread - Arduino initialized successfully.
+2024-10-23 14:22:26,070 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 0
+2024-10-23 14:22:26,070 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:26,086 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 2
+2024-10-23 14:22:26,087 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:26,089 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 5
+2024-10-23 14:22:26,090 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:26,093 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 7
+2024-10-23 14:22:26,093 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:26,093 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 9
+2024-10-23 14:22:26,093 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:26,101 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: b
+2024-10-23 14:22:26,103 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:26,104 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: d
+2024-10-23 14:22:26,104 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:26,104 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: f
+2024-10-23 14:22:26,109 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:26,109 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: h
+2024-10-23 14:22:26,113 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:29,805 - INFO - MainThread - Sent to Arduino: 4
+2024-10-23 14:22:29,830 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 4
+2024-10-23 14:22:29,846 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:31,274 - INFO - MainThread - Sent to Arduino: 5
+2024-10-23 14:22:31,293 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 5
+2024-10-23 14:22:31,317 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:33,071 - INFO - MainThread - Sent to Arduino: 3
+2024-10-23 14:22:33,095 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 3
+2024-10-23 14:22:33,109 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:34,414 - INFO - MainThread - Sent to Arduino: 2
+2024-10-23 14:22:34,438 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 2
+2024-10-23 14:22:34,454 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:36,732 - INFO - MainThread - Sent to Arduino: 3
+2024-10-23 14:22:36,755 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 3
+2024-10-23 14:22:36,770 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:39,498 - INFO - MainThread - Sent to Arduino: 2
+2024-10-23 14:22:39,520 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 2
+2024-10-23 14:22:39,536 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:49,786 - INFO - MainThread - Sent to Arduino: 3
+2024-10-23 14:22:49,810 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 3
+2024-10-23 14:22:49,821 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:51,531 - INFO - MainThread - Sent to Arduino: 2
+2024-10-23 14:22:51,555 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 2
+2024-10-23 14:22:51,571 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:52,999 - INFO - MainThread - Sent to Arduino: 3
+2024-10-23 14:22:53,018 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 3
+2024-10-23 14:22:53,041 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:53,794 - INFO - MainThread - Sent to Arduino: 2
+2024-10-23 14:22:53,815 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 2
+2024-10-23 14:22:53,837 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:22:58,814 - INFO - Thread-7 (_set_light_thread) - Sent to Arduino: i 409
+2024-10-23 14:22:58,814 - INFO - Thread-7 (_set_light_thread) - Light set to stage: 409
+2024-10-23 14:22:58,839 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: i
+2024-10-23 14:22:58,865 - INFO - Thread-6 (read_serial) - Received from Arduino: enter value between 0 and 4095:
+2024-10-23 14:22:59,890 - INFO - Thread-6 (read_serial) - Received from Arduino: 409
+2024-10-23 14:23:01,298 - INFO - Thread-8 (_set_light_thread) - Sent to Arduino: i 409
+2024-10-23 14:23:01,298 - INFO - Thread-8 (_set_light_thread) - Light set to stage: 409
+2024-10-23 14:23:02,316 - INFO - Thread-6 (read_serial) - Received from Arduino: 409
+2024-10-23 14:23:06,634 - INFO - Thread-9 (_set_light_thread) - Sent to Arduino: i 4095
+2024-10-23 14:23:06,634 - INFO - Thread-9 (_set_light_thread) - Light set to stage: 4095
+2024-10-23 14:23:07,650 - INFO - Thread-6 (read_serial) - Received from Arduino: 4095
+2024-10-23 14:23:17,227 - INFO - MainThread - Arduino disconnected successfully.
+2024-10-23 14:24:44,902 - INFO - MainThread - Sent to Arduino: 0
+2024-10-23 14:24:45,405 - INFO - MainThread - Sent to Arduino: 2
+2024-10-23 14:24:45,907 - INFO - MainThread - Sent to Arduino: 5
+2024-10-23 14:24:46,409 - INFO - MainThread - Sent to Arduino: 7
+2024-10-23 14:24:46,911 - INFO - MainThread - Sent to Arduino: 9
+2024-10-23 14:24:47,412 - INFO - MainThread - Sent to Arduino: b
+2024-10-23 14:24:47,914 - INFO - MainThread - Sent to Arduino: d
+2024-10-23 14:24:48,416 - INFO - MainThread - Sent to Arduino: f
+2024-10-23 14:24:48,918 - INFO - MainThread - Sent to Arduino: h
+2024-10-23 14:24:51,267 - INFO - MainThread - Arduino initialized successfully.
+2024-10-23 14:24:51,276 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 0
+2024-10-23 14:24:51,277 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:24:51,280 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 2
+2024-10-23 14:24:51,281 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:24:51,281 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 5
+2024-10-23 14:24:51,287 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:24:51,288 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 7
+2024-10-23 14:24:51,291 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:24:51,295 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 9
+2024-10-23 14:24:51,295 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:24:51,295 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: b
+2024-10-23 14:24:51,298 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:24:51,298 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: d
+2024-10-23 14:24:51,298 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:24:51,301 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: f
+2024-10-23 14:24:51,304 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:24:51,304 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: h
+2024-10-23 14:24:51,304 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 14:24:54,148 - INFO - Thread-7 (_set_light_thread) - Sent to Arduino: i 409
+2024-10-23 14:24:54,148 - INFO - Thread-7 (_set_light_thread) - Light set to stage: 409
+2024-10-23 14:24:54,167 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: i
+2024-10-23 14:24:54,205 - INFO - Thread-6 (read_serial) - Received from Arduino: enter value between 0 and 4095:
+2024-10-23 14:24:55,207 - INFO - Thread-6 (read_serial) - Received from Arduino: 409
+2024-10-23 14:24:55,710 - INFO - Thread-8 (_set_light_thread) - Sent to Arduino: i 409
+2024-10-23 14:24:55,710 - INFO - Thread-8 (_set_light_thread) - Light set to stage: 409
+2024-10-23 14:24:56,719 - INFO - Thread-6 (read_serial) - Received from Arduino: 409
+2024-10-23 14:25:01,015 - INFO - Thread-9 (_set_light_thread) - Sent to Arduino: i 4095
+2024-10-23 14:25:01,016 - INFO - Thread-9 (_set_light_thread) - Light set to stage: 4095
+2024-10-23 14:25:02,023 - INFO - Thread-6 (read_serial) - Received from Arduino: 4095
+2024-10-23 14:25:05,527 - INFO - Thread-10 (_set_light_thread) - Sent to Arduino: i 0
+2024-10-23 14:25:05,527 - INFO - Thread-10 (_set_light_thread) - Light set to stage: 0
+2024-10-23 14:25:06,549 - INFO - Thread-6 (read_serial) - Received from Arduino: 0
+2024-10-23 14:25:12,457 - INFO - MainThread - Arduino disconnected successfully.
+2024-10-23 15:05:15,843 - INFO - MainThread - Sent to Arduino: 0
+2024-10-23 15:05:16,345 - INFO - MainThread - Sent to Arduino: 2
+2024-10-23 15:05:16,847 - INFO - MainThread - Sent to Arduino: 5
+2024-10-23 15:05:17,349 - INFO - MainThread - Sent to Arduino: 7
+2024-10-23 15:05:17,851 - INFO - MainThread - Sent to Arduino: 9
+2024-10-23 15:05:18,353 - INFO - MainThread - Sent to Arduino: b
+2024-10-23 15:05:18,855 - INFO - MainThread - Sent to Arduino: d
+2024-10-23 15:05:19,356 - INFO - MainThread - Sent to Arduino: f
+2024-10-23 15:05:19,858 - INFO - MainThread - Sent to Arduino: h
+2024-10-23 15:05:23,325 - INFO - MainThread - Arduino initialized successfully.
+2024-10-23 15:05:23,336 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 0
+2024-10-23 15:05:23,336 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:05:23,339 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 2
+2024-10-23 15:05:23,339 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:05:23,339 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 5
+2024-10-23 15:05:23,339 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:05:23,347 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 7
+2024-10-23 15:05:23,347 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:05:23,347 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: 9
+2024-10-23 15:05:23,347 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:05:23,347 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: b
+2024-10-23 15:05:23,347 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:05:23,347 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: d
+2024-10-23 15:05:23,355 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:05:23,355 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: f
+2024-10-23 15:05:23,355 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:05:23,355 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: h
+2024-10-23 15:05:23,355 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:05:25,785 - INFO - Thread-7 (_set_light_thread) - Sent to Arduino: i 4095
+2024-10-23 15:05:25,785 - INFO - Thread-7 (_set_light_thread) - Light set to stage: 4095
+2024-10-23 15:05:25,805 - INFO - Thread-6 (read_serial) - Received from Arduino: RECEIVED INPUT: i
+2024-10-23 15:05:25,848 - INFO - Thread-6 (read_serial) - Received from Arduino: enter value between 0 and 4095:
+2024-10-23 15:05:26,861 - INFO - Thread-6 (read_serial) - Received from Arduino: 4095
+2024-10-23 15:05:32,621 - INFO - Thread-8 (_set_light_thread) - Sent to Arduino: i 0
+2024-10-23 15:05:32,621 - INFO - Thread-8 (_set_light_thread) - Light set to stage: 0
+2024-10-23 15:05:33,631 - INFO - Thread-6 (read_serial) - Received from Arduino: 0
+2024-10-23 15:05:38,997 - INFO - MainThread - Arduino disconnected successfully.
+2024-10-23 15:18:53,149 - INFO - Sent to Arduino: 0
+2024-10-23 15:18:53,652 - INFO - Sent to Arduino: 2
+2024-10-23 15:18:54,154 - INFO - Sent to Arduino: 5
+2024-10-23 15:18:54,655 - INFO - Sent to Arduino: 7
+2024-10-23 15:18:55,157 - INFO - Sent to Arduino: 9
+2024-10-23 15:18:55,659 - INFO - Sent to Arduino: b
+2024-10-23 15:18:56,161 - INFO - Sent to Arduino: d
+2024-10-23 15:18:56,663 - INFO - Sent to Arduino: f
+2024-10-23 15:18:57,165 - INFO - Sent to Arduino: h
+2024-10-23 15:18:59,394 - INFO - Arduino initialized successfully.
+2024-10-23 15:18:59,403 - INFO - Received from Arduino: RECEIVED INPUT: 0
+2024-10-23 15:18:59,403 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:18:59,406 - INFO - Received from Arduino: RECEIVED INPUT: 2
+2024-10-23 15:18:59,407 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:18:59,407 - INFO - Received from Arduino: RECEIVED INPUT: 5
+2024-10-23 15:18:59,410 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:18:59,411 - INFO - Received from Arduino: RECEIVED INPUT: 7
+2024-10-23 15:18:59,413 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:18:59,413 - INFO - Received from Arduino: RECEIVED INPUT: 9
+2024-10-23 15:18:59,413 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:18:59,423 - INFO - Received from Arduino: RECEIVED INPUT: b
+2024-10-23 15:18:59,424 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:18:59,424 - INFO - Received from Arduino: RECEIVED INPUT: d
+2024-10-23 15:18:59,427 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:18:59,428 - INFO - Received from Arduino: RECEIVED INPUT: f
+2024-10-23 15:18:59,428 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:18:59,430 - INFO - Received from Arduino: RECEIVED INPUT: h
+2024-10-23 15:18:59,430 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:19:02,541 - INFO - Sent to Arduino: i 4095
+2024-10-23 15:19:02,541 - INFO - Light set to stage: 4095
+2024-10-23 15:19:02,560 - INFO - Received from Arduino: RECEIVED INPUT: i
+2024-10-23 15:19:02,598 - INFO - Received from Arduino: enter value between 0 and 4095:
+2024-10-23 15:19:03,602 - INFO - Received from Arduino: 4095
+2024-10-23 15:19:07,513 - INFO - Sent to Arduino: i 40
+2024-10-23 15:19:07,513 - INFO - Light set to stage: 40
+2024-10-23 15:19:08,526 - INFO - Received from Arduino: 40
+2024-10-23 15:19:12,812 - INFO - Sent to Arduino: i 0
+2024-10-23 15:19:12,812 - INFO - Light set to stage: 0
+2024-10-23 15:19:13,832 - INFO - Received from Arduino: 0
+2024-10-23 15:19:22,522 - INFO - Arduino disconnected successfully.
+2024-10-23 15:25:31,316 - INFO - Sent to Arduino: 0
+2024-10-23 15:25:31,819 - INFO - Sent to Arduino: 2
+2024-10-23 15:25:32,321 - INFO - Sent to Arduino: 5
+2024-10-23 15:25:32,823 - INFO - Sent to Arduino: 7
+2024-10-23 15:25:33,325 - INFO - Sent to Arduino: 9
+2024-10-23 15:25:33,826 - INFO - Sent to Arduino: b
+2024-10-23 15:25:34,328 - INFO - Sent to Arduino: d
+2024-10-23 15:25:34,830 - INFO - Sent to Arduino: f
+2024-10-23 15:25:35,332 - INFO - Sent to Arduino: h
+2024-10-23 15:25:43,925 - INFO - Arduino initialized successfully.
+2024-10-23 15:25:43,925 - INFO - Received from Arduino: RECEIVED INPUT: 0
+2024-10-23 15:25:43,939 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:25:43,941 - INFO - Received from Arduino: RECEIVED INPUT: 2
+2024-10-23 15:25:43,943 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:25:43,943 - INFO - Received from Arduino: RECEIVED INPUT: 5
+2024-10-23 15:25:43,943 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:25:43,943 - INFO - Received from Arduino: RECEIVED INPUT: 7
+2024-10-23 15:25:43,943 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:25:43,943 - INFO - Received from Arduino: RECEIVED INPUT: 9
+2024-10-23 15:25:43,943 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:25:43,954 - INFO - Received from Arduino: RECEIVED INPUT: b
+2024-10-23 15:25:43,954 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:25:43,954 - INFO - Received from Arduino: RECEIVED INPUT: d
+2024-10-23 15:25:43,954 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:25:43,954 - INFO - Received from Arduino: RECEIVED INPUT: f
+2024-10-23 15:25:43,954 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:25:43,962 - INFO - Received from Arduino: RECEIVED INPUT: h
+2024-10-23 15:25:43,965 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:25:46,433 - INFO - Sent to Arduino: i 4095
+2024-10-23 15:25:46,433 - INFO - Light set to stage: 4095
+2024-10-23 15:25:46,457 - INFO - Received from Arduino: RECEIVED INPUT: i
+2024-10-23 15:25:46,491 - INFO - Received from Arduino: enter value between 0 and 4095:
+2024-10-23 15:25:47,504 - INFO - Received from Arduino: 4095
+2024-10-23 15:25:49,427 - INFO - Sent to Arduino: i 409
+2024-10-23 15:25:49,427 - INFO - Light set to stage: 409
+2024-10-23 15:25:50,448 - INFO - Received from Arduino: 409
+2024-10-23 15:25:51,781 - INFO - Sent to Arduino: 3
+2024-10-23 15:25:52,791 - INFO - Received from Arduino: 3
+2024-10-23 15:25:53,724 - INFO - Sent to Arduino: 2
+2024-10-23 15:25:54,724 - INFO - Received from Arduino: 2
+2024-10-23 15:25:55,750 - INFO - Sent to Arduino: 1
+2024-10-23 15:25:56,402 - INFO - Sent to Arduino: 0
+2024-10-23 15:25:57,405 - INFO - Received from Arduino: 10
+2024-10-23 15:25:59,811 - INFO - Arduino disconnected successfully.
+2024-10-23 15:26:03,130 - INFO - Sent to Arduino: 0
+2024-10-23 15:26:03,632 - INFO - Sent to Arduino: 2
+2024-10-23 15:26:04,134 - INFO - Sent to Arduino: 5
+2024-10-23 15:26:04,635 - INFO - Sent to Arduino: 7
+2024-10-23 15:26:05,137 - INFO - Sent to Arduino: 9
+2024-10-23 15:26:05,639 - INFO - Sent to Arduino: b
+2024-10-23 15:26:06,140 - INFO - Sent to Arduino: d
+2024-10-23 15:26:06,642 - INFO - Sent to Arduino: f
+2024-10-23 15:26:07,144 - INFO - Sent to Arduino: h
+2024-10-23 15:26:10,051 - INFO - Arduino initialized successfully.
+2024-10-23 15:26:10,062 - INFO - Received from Arduino: RECEIVED INPUT: 0
+2024-10-23 15:26:10,063 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:26:10,063 - INFO - Received from Arduino: RECEIVED INPUT: 2
+2024-10-23 15:26:10,063 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:26:10,066 - INFO - Received from Arduino: RECEIVED INPUT: 5
+2024-10-23 15:26:10,070 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:26:10,070 - INFO - Received from Arduino: RECEIVED INPUT: 7
+2024-10-23 15:26:10,073 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:26:10,074 - INFO - Received from Arduino: RECEIVED INPUT: 9
+2024-10-23 15:26:10,074 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:26:10,078 - INFO - Received from Arduino: RECEIVED INPUT: b
+2024-10-23 15:26:10,078 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:26:10,078 - INFO - Received from Arduino: RECEIVED INPUT: d
+2024-10-23 15:26:10,078 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:26:10,078 - INFO - Received from Arduino: RECEIVED INPUT: f
+2024-10-23 15:26:10,078 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:26:10,086 - INFO - Received from Arduino: RECEIVED INPUT: h
+2024-10-23 15:26:10,086 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:26:12,598 - INFO - Sent to Arduino: 3
+2024-10-23 15:26:12,616 - INFO - Received from Arduino: RECEIVED INPUT: 3
+2024-10-23 15:26:12,635 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:26:13,864 - INFO - Sent to Arduino: 2
+2024-10-23 15:26:13,882 - INFO - Received from Arduino: RECEIVED INPUT: 2
+2024-10-23 15:26:13,901 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:26:15,895 - INFO - Sent to Arduino: 1
+2024-10-23 15:26:15,914 - INFO - Received from Arduino: RECEIVED INPUT: 1
+2024-10-23 15:26:15,933 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:26:17,020 - INFO - Sent to Arduino: 0
+2024-10-23 15:26:17,038 - INFO - Received from Arduino: RECEIVED INPUT: 0
+2024-10-23 15:26:17,062 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:26:18,435 - INFO - Sent to Arduino: 3
+2024-10-23 15:26:18,461 - INFO - Received from Arduino: RECEIVED INPUT: 3
+2024-10-23 15:26:18,477 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:26:19,848 - INFO - Sent to Arduino: 2
+2024-10-23 15:26:19,874 - INFO - Received from Arduino: RECEIVED INPUT: 2
+2024-10-23 15:26:19,891 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:26:21,283 - INFO - Sent to Arduino: 3
+2024-10-23 15:26:21,307 - INFO - Received from Arduino: RECEIVED INPUT: 3
+2024-10-23 15:26:21,323 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:26:22,558 - INFO - Sent to Arduino: 2
+2024-10-23 15:26:22,575 - INFO - Received from Arduino: RECEIVED INPUT: 2
+2024-10-23 15:26:22,593 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:26:29,901 - INFO - Sent to Arduino: i 4095
+2024-10-23 15:26:29,901 - INFO - Light set to stage: 4095
+2024-10-23 15:26:29,923 - INFO - Received from Arduino: RECEIVED INPUT: i
+2024-10-23 15:26:29,960 - INFO - Received from Arduino: enter value between 0 and 4095:
+2024-10-23 15:26:30,972 - INFO - Received from Arduino: 4095
+2024-10-23 15:26:37,520 - INFO - Arduino disconnected successfully.
+2024-10-23 15:28:24,262 - INFO - Sent to Arduino: 0
+2024-10-23 15:28:24,764 - INFO - Sent to Arduino: 2
+2024-10-23 15:28:25,266 - INFO - Sent to Arduino: 5
+2024-10-23 15:28:25,768 - INFO - Sent to Arduino: 7
+2024-10-23 15:28:26,270 - INFO - Sent to Arduino: 9
+2024-10-23 15:28:26,771 - INFO - Sent to Arduino: b
+2024-10-23 15:28:27,273 - INFO - Sent to Arduino: d
+2024-10-23 15:28:27,775 - INFO - Sent to Arduino: f
+2024-10-23 15:28:28,277 - INFO - Sent to Arduino: h
+2024-10-23 15:28:32,004 - INFO - Arduino initialized successfully.
+2024-10-23 15:28:32,020 - INFO - Received from Arduino: RECEIVED INPUT: 0
+2024-10-23 15:28:32,020 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:28:32,023 - INFO - Received from Arduino: RECEIVED INPUT: 2
+2024-10-23 15:28:32,025 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:28:32,028 - INFO - Received from Arduino: RECEIVED INPUT: 5
+2024-10-23 15:28:32,029 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:28:32,033 - INFO - Received from Arduino: RECEIVED INPUT: 7
+2024-10-23 15:28:32,033 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:28:32,033 - INFO - Received from Arduino: RECEIVED INPUT: 9
+2024-10-23 15:28:32,037 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:28:32,037 - INFO - Received from Arduino: RECEIVED INPUT: b
+2024-10-23 15:28:32,037 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:28:32,037 - INFO - Received from Arduino: RECEIVED INPUT: d
+2024-10-23 15:28:32,044 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:28:32,044 - INFO - Received from Arduino: RECEIVED INPUT: f
+2024-10-23 15:28:32,044 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:28:32,044 - INFO - Received from Arduino: RECEIVED INPUT: h
+2024-10-23 15:28:32,051 - INFO - Received from Arduino: RECEIVED INPUT:
+2024-10-23 15:28:37,129 - INFO - Sent to Arduino: i 0
+2024-10-23 15:28:37,129 - INFO - Light set to stage: 0
+2024-10-23 15:28:37,152 - INFO - Received from Arduino: RECEIVED INPUT: i
+2024-10-23 15:28:37,188 - INFO - Received from Arduino: enter value between 0 and 4095:
+2024-10-23 15:28:38,194 - INFO - Received from Arduino: 0
+2024-10-23 15:28:42,441 - INFO - Sent to Arduino: i 409
+2024-10-23 15:28:42,441 - INFO - Light set to stage: 409
+2024-10-23 15:28:43,465 - INFO - Received from Arduino: 409
+2024-10-23 15:28:47,598 - INFO - Arduino disconnected successfully.
